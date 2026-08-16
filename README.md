@@ -1,4 +1,4 @@
-![][27.png]
+![Alt text](https://github.com/idkwhatt0d0dev/Nugget27/blob/main/27.png)
 
 # nugget27
 Unlock your device's full potential, with iOS 27 support!
