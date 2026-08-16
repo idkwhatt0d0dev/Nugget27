@@ -1,4 +1,4 @@
-![Artboard][NuggetLogo]
+![Artboard][27.png]
 
 # nugget27
 Unlock your device's full potential, with iOS 27 support!
